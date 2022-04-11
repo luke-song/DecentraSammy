@@ -9,7 +9,7 @@ const App = () => {
   const orange = new THREE.Color(0xffa500);
   const crimson = new THREE.Color(0xdc143c);
   const teal = new THREE.Color(0x008080);
-  const steelblue = new THREE.Color(0x4682b4);
+  const steelblue = new THREE.Cohree.js lor(0x4682b4);
 
   const [currentColor, setCurrentColor] = useState(orange);
 
